@@ -9,16 +9,18 @@
 * This Application helps students choose a major based on their interests and abilities.
 
 <div align="center">
+<a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
 <a href="https://github.com/BogibekDev/GO-Test" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
+
+
+
 
 ### Tools
-• JetPack Navigation
-• Dagger Hilt
-• Firebase
-• Coroutines
-• MVVM
+• Flutter
+• Dart
+• Material Page Route
 
 #
 
