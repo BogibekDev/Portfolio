@@ -4,7 +4,7 @@
 
 ## 🎛 GO Test
 
-![image](https://github.com/BogibekDev/GO-Test/raw/main/gotest.webp)
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/gotest.webp)
 
 * This Application helps students choose a major based on their interests and abilities.
 
