@@ -6,10 +6,10 @@
 
 ![image](https://github.com/BogibekDev/GO-Test/raw/main/gotest.webp)
 
-* Caravan - an android application to help tourists find an excellent tourist or trip.
+* This Application helps students choose a major based on their interests and abilities.
 
 <div align="center">
-<a href="https://github.com/khurshid88/caravan-android" target="_blank">
+<a href="https://github.com/BogibekDev/GO-Test" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
