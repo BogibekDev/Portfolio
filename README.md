@@ -1,7 +1,30 @@
 
-# Bogibek Matyaqubov | Mobile Software Engineer(Android | Flutter)
+# Bogibek Matyaqubov | Mobile Software Engineer(Android && Flutter)
 
 - Highly skilled and enthusiastic Android Engineer with a strong background in mobile application development and a Bachelor's degree in Computer Science. Adept at utilizing Kotlin, Java, and Jetpack Compose to create innovative and user-friendly Android applications. Passionate about delivering high-quality software solutions and staying at the forefront of Android development trends.
+
+## ⚒️ Stack:
+<a href="https://www.android.com/" target="_blank">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="https://img.shields.io/badge/Kotlin_-100000?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF&labelColor=7F52FF&color=7F52FF"/></a>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Coffeescript&logoColor=white&labelColor=D36E30&color=D36E30"/></a>
+<a href="https://dart.dev/" target="_blank">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="https://flutter.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
+
+<a href="" target="_blank">
+<img src=""/></a>
+<a href="" target="_blank">
+<img src=""/></a>
+<a href="" target="_blank">
+<img src=""/></a>
+<a href="" target="_blank">
+<img src=""/></a>
+<a href="" target="_blank">
+<img src=""/></a>
 
 ## Mega Mobile for Client
 
