@@ -1,40 +1,5 @@
 # Bogibek's portfolio 🔥
 
-## JetFlix
-
-![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/011_JetFlix01.webp)
-
-
-<details>
-  <summary>Other Screenshots </summary>
-  <br>
-  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/011_JetFlix02.webp" alt="image-description"/>
-  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/011_JetFlix03.webp" alt="image-description"/>
-</details>
-
-<br>
-
-- JetFlix is consept of NetFlix.
-
-<div align="center">
- <a href="#" target="_blank"><img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;"/></a>
-<a href="https://github.com/BogibekDev/JetFlix-TV-App" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;"/></a>
-</div>
-
-### Used Techs
-
-• [Kotlin](https://kotlinlang.org/)
-• [Compose For TV](https://developer.android.com/training/tv/playback/compose)
-• [MVVM](https://developer.android.com/jetpack/docs/guide)
-• [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) 
-• [Dagger Hilt](https://dagger.dev/hilt/) 
-• [Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle)
-• [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-• [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-
-
-
-#
 
 ## Mega Mobile for Client
 
@@ -100,9 +65,9 @@
 
 <div align="center">
  <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" /></a>
 <a href="https://github.com/BogibekDev/EduPowerBI" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 
 ### Used Tech
@@ -116,6 +81,44 @@
 
 #
 
+
+## JetFlix
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/011_JetFlix01.webp)
+
+
+<details>
+  <summary>Other Screenshots </summary>
+  <br>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/011_JetFlix02.webp" alt="image-description"/>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/011_JetFlix03.webp" alt="image-description"/>
+</details>
+
+<br>
+
+- JetFlix is consept of NetFlix.
+
+<div align="center">
+ <a href="#" target="_blank"><img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;"/></a>
+<a href="https://github.com/BogibekDev/JetFlix-TV-App" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;"/></a>
+</div>
+
+### Used Techs
+
+• [Kotlin](https://kotlinlang.org/)
+• [Compose For TV](https://developer.android.com/training/tv/playback/compose)
+• [MVVM](https://developer.android.com/jetpack/docs/guide)
+• [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) 
+• [Dagger Hilt](https://dagger.dev/hilt/) 
+• [Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle)
+• [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+• [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+
+
+
+#
+
+
 ## ✅ Task Management
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/task.webp)
@@ -125,7 +128,7 @@
 
 <div align="center">
 <a href="https://github.com/BogibekDev/Todo-App-Flutter" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 
 
 </div>
@@ -150,9 +153,9 @@
 <div align="center">
   
 <a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
-<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" /></a>
 <a href="https://github.com/BogibekDev/GO-Test" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 
 </div>
 
@@ -173,7 +176,7 @@
 
 <div align="center">
 <a href="https://github.com/khurshid88/caravan-android" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 
 ### Tools
@@ -194,7 +197,7 @@
 
 <div align="center">
 <a href="https://github.com/BogibekDev/POS-mini" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 
 ### Tools
@@ -216,7 +219,7 @@
 
 <div align="center">
 <a href="https://github.com/BogibekDev/Notes-App" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 
 ### Tools
@@ -237,7 +240,7 @@
 
 <div align="center">
 <a href="https://github.com/BogibekDev/PDP.AI" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 
 ### Tools
