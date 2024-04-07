@@ -8,7 +8,7 @@
 - Mega Mobile - CRM System for Building Materials Store. It has customer management, money management, product income and outcome.
 
 <div align="center">
- <a href="#" target="_blank"><img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;"/></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
 <a href="https://github.com/BogibekDev/mega_mobile" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;"/></a>
 </div>
 
