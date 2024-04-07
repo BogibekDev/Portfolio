@@ -8,9 +8,8 @@
 
 
 <details>
-  <summary>Some Screenshots </summary>
-  
-  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/0_home.webp" alt="image-description"/>
+  <summary>Other Screenshots </summary>
+  <br>
   <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/1_detail.webp" alt="image-description"/>
   <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/2_add.webp" alt="image-description"/>
 </details>
