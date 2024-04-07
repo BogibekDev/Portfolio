@@ -6,9 +6,6 @@
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/0_home.webp)
 
-- Employees is a mobile application developed for the company where my friend works. HR and department heads can access all employees' details and inventory information through this app. Also, they search employees by full name, by phone number, or by inventory numbers.
-
-
 
 <details>
   <summary>Some Screenshots </summary>
@@ -16,6 +13,9 @@
   <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/1_detail.webp" alt="image-description"/>
   <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/2_add.webp" alt="image-description"/>
 </details>
+
+
+- Employees is a mobile application developed for the company where my friend works. HR and department heads can access all employees' details and inventory information through this app. Also, they search employees by full name, by phone number, or by inventory numbers.
 
 
 <div align="center">
