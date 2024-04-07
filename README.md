@@ -1,9 +1,28 @@
 ## Bogibek's portfolio 🔥
 
-#
+## EDU PowerBI
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/010_powerBI.webp)
 
 
+* EDU PowerBI - a program designed for those learning to work with Power BI. This program contains pdf books, videos, tests, and assignments.
 
+<div align="center">
+  
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+<a href="https://github.com/BogibekDev/EduPowerBI" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+</div>
+
+### Used Tech
+• Kotlin
+• JetPack Navigation
+• XML
+• Material3
+• Lottie
+• Media3
+• Retrofit2
 
 
 ## ✅ Task Management
@@ -38,11 +57,11 @@
 * This Application helps students choose a major based on their interests and abilities.
 
 <div align="center">
+  
 <a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
 <a href="https://github.com/BogibekDev/GO-Test" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
 
 </div>
 
