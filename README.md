@@ -1,4 +1,41 @@
-## Bogibek's portfolio 🔥
+# Bogibek's portfolio 🔥
+
+
+
+## Employees
+
+    Employees is a mobile application developed for the company where my friend works. HR and department heads can access all employees' details and inventory information through this app. Also, they search employees by full name, by phone number, or by inventory numbers.
+
+
+
+<details>
+  <summary>Some Screenshots </summary>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/0_home.webp" alt="image-description"/>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/1_detail.webp" alt="image-description"/>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/2_add.webp" alt="image-description"/>
+</details>
+
+
+<div align="center">
+ <a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/BogibekDev/App-for-Karantin" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+
+### Used Techs
+
+• [Dart](https://dart.dev/)
+• [Flutter](https://flutter.dev/)
+• [Sheets](https://www.google.com/sheets/about/) 
+• [Sheet DB](https://sheetdb.io/)
+• [Retrofit](https://pub.dev/packages/retrofit)
+• [.env](https://pub.dev/packages/flutter_dotenv)
+• [Material Page Route](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
+
+#
 
 ## EDU PowerBI
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/010_powerBI.webp)
@@ -7,12 +44,10 @@
 * EDU PowerBI - a program designed for those learning to work with Power BI. This program contains pdf books, videos, tests, and assignments.
 
 <div align="center">
-  
-<a href="#" target="_blank">
+ <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
 <a href="https://github.com/BogibekDev/EduPowerBI" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
 ### Used Tech
@@ -24,6 +59,7 @@
 • Media3
 • Retrofit2
 
+#
 
 ## ✅ Task Management
 
