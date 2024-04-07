@@ -23,7 +23,7 @@
 • [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
 #
-## Employees
+## Employees for Client
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/0_home.webp)
 
@@ -57,7 +57,7 @@
 
 #
 
-## EDU PowerBI
+## EDU PowerBI for Client
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/010_powerBI.webp)
 
 
