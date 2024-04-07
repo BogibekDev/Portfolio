@@ -1,7 +1,43 @@
 # Bogibek's portfolio 🔥
 
+## JetFlix
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/11_JetFlix01.webp)
 
 
+<details>
+  <summary>Other Screenshots </summary>
+  <br>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/11_JetFlix02.webp" alt="image-description"/>
+  <img src="https://github.com/BogibekDev/Portfolio/raw/main/screenshots/11_JetFlix03.webp" alt="image-description"/>
+</details>
+
+<br>
+
+#
+
+## Mega Mobile for Client
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/mega_00.webp)
+
+- Mega Mobile - CRM System for Building Materials Store. It has customer management, money management, product income and outcome.
+
+<div align="center">
+ <a href="#" target="_blank"><img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;"/></a>
+<a href="https://github.com/BogibekDev/mega_mobile" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;"/></a>
+</div>
+
+### Used Tech
+• [Kotlin](https://kotlinlang.org/)
+• [Compose](https://developer.android.com/jetpack/compose)
+• [MVVM](https://developer.android.com/jetpack/docs/guide)
+• [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) 
+• [Dagger Hilt](https://dagger.dev/hilt/) 
+• [Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle)
+• [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+• [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+
+#
 ## Employees
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/0_home.webp)
