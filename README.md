@@ -16,7 +16,7 @@
 <a href="https://flutter.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
 
-<a href="" target="_blank">
+<!-- <a href="" target="_blank">
 <img src=""/></a>
 <a href="" target="_blank">
 <img src=""/></a>
@@ -25,7 +25,7 @@
 <a href="" target="_blank">
 <img src=""/></a>
 <a href="" target="_blank">
-<img src=""/></a>
+<img src=""/></a> -->
 
 ## Mega Mobile for Client
 
