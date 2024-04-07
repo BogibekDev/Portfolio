@@ -1,4 +1,4 @@
-# Bogibek's portfolio 🔥
+
 
 
 ## Mega Mobile for Client
@@ -22,7 +22,8 @@
 • [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 • [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
-#
+
+___
 ## Employees for Client
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/0_home.webp)
@@ -55,7 +56,7 @@
 • [.env](https://pub.dev/packages/flutter_dotenv)
 • [Material Page Route](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
 
-#
+___
 
 ## EDU PowerBI for Client
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/010_powerBI.webp)
@@ -79,8 +80,30 @@
 • Media3
 • Retrofit2
 
-#
+___
 
+
+## 🎛 GO Test
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/gotest.webp)
+
+* This Application helps students choose a major based on their interests and abilities.
+
+<div align="center">
+  
+<a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" /></a>
+<a href="https://github.com/BogibekDev/GO-Test" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+
+</div>
+
+### Tools
+• Flutter
+• Dart
+• Material Page Route
+
+___
 
 ## JetFlix
 
@@ -115,14 +138,12 @@
 • [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
 
-
-#
+___
 
 
 ## ✅ Task Management
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/task.webp)
-![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/task_iphone.webp)
 
 * This Application helps anyone who what manage their tasks.
 
@@ -142,36 +163,19 @@
 • Real-time Data Sync
 • Firebase Firestore
 
-#
-
-## 🎛 GO Test
-
-![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/gotest.webp)
-
-* This Application helps students choose a major based on their interests and abilities.
-
-<div align="center">
-  
-<a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
-<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" /></a>
-<a href="https://github.com/BogibekDev/GO-Test" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-
-</div>
-
-### Tools
-• Flutter
-• Dart
-• Material Page Route
-
-#
+___
 
 ## 🧳✈ Caravan
 
 ![image](https://user-images.githubusercontent.com/94156864/183857808-850148e7-5982-401c-aacd-5b61f2907cb1.png)
-![image](https://user-images.githubusercontent.com/94156864/183857856-6701b676-a51f-48e3-a758-0be97f3621e3.png)
-![image](https://user-images.githubusercontent.com/94156864/183857864-41057f4a-672b-440d-8837-87bf05cfd6f2.png)
+<details>
+  <summary>Other Screenshots </summary>
+  <br>
+  <img src="https://user-images.githubusercontent.com/94156864/183857856-6701b676-a51f-48e3-a758-0be97f3621e3.png" alt="image"/>
+  <img src="https://user-images.githubusercontent.com/94156864/183857864-41057f4a-672b-440d-8837-87bf05cfd6f2.png" alt="image"/>
+</details>
 
+<br>
 * Caravan - an android application to help tourists find an excellent tourist or trip.
 
 <div align="center">
@@ -186,12 +190,18 @@
 • Coroutines
 • MVVM
 
-#
+___
 
 ## 🛒 POS Mini
 
 ![image](https://raw.github.com/bogibekdev/POS-mini/master/first.png)
-![image](https://raw.github.com/bogibekdev/POS-mini/master/second.png)
+<details>
+  <summary>Other Screenshots </summary>
+  <br>
+  <img src="https://raw.github.com/bogibekdev/POS-mini/master/second.png" alt="image"/>
+</details>
+
+<br>
 
 * POS Mini – an Android application that is a POS system for small shops.
 
@@ -208,12 +218,19 @@
 • Coroutines
 • MVVM
 
-#
+___
 
 ## 📝 Notes-App
 
 ![image](https://raw.github.com/bogibekdev/Notes-App/master/first_screens.png)
-![image](https://raw.github.com/bogibekdev/Notes-App/master/second_screen.png)
+<details>
+  <summary>Other Screenshots </summary>
+  <br>
+  <img src="https://raw.github.com/bogibekdev/Notes-App/master/second_screen.png" alt="image-description"/>
+</details>
+
+<br>
+
 
 * This is a simple note app.
 
@@ -230,7 +247,7 @@
 • Dagger Hilt
 • MVVM
 
-#
+___
 
 ## 🤖 PDP.AI
 
