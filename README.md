@@ -1,5 +1,6 @@
 
-# Bogibek Matyaqubov | Mobile Software Engineer(Android && Flutter)
+# Bogibek Matyaqubov
+## Mobile Software Engineer(Android && Flutter)
 
 - Highly skilled and enthusiastic Android Engineer with a strong background in mobile application development and a Bachelor's degree in Computer Science. Adept at utilizing Kotlin, Java, and Jetpack Compose to create innovative and user-friendly Android applications. Passionate about delivering high-quality software solutions and staying at the forefront of Android development trends.
 
