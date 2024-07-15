@@ -34,7 +34,7 @@
 - Mega Mobile - CRM System for Building Materials Store. It has customer management, money management, product income and outcome.
 
 <div align="center">
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+ <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a> -->
 <a href="https://github.com/BogibekDev/mega_mobile" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
 </div>
 
@@ -68,7 +68,7 @@ ___
 
 
 <div align="center">
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+ <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a> -->
 <a href="https://github.com/BogibekDev/App-for-Karantin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
 </div>
 
@@ -91,8 +91,8 @@ ___
 * EDU PowerBI - a program designed for those learning to work with Power BI. This program contains pdf books, videos, tests, and assignments.
 
 <div align="center">
- <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;" /></a>
+ <!-- <a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;" /></a> -->
 <a href="https://github.com/BogibekDev/EduPowerBI" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
@@ -117,8 +117,8 @@ ___
 
 <div align="center">
   
-<a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;" /></a>
+<!-- <a href="https://play.google.com/store/apps/details?id=uz.wairerlab.go_test" target="_blank">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;" /></a> -->
 <a href="https://github.com/BogibekDev/GO-Test" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 
@@ -148,7 +148,7 @@ ___
 - JetFlix is consept of NetFlix.
 
 <div align="center">
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+ <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a> -->
 <a href="https://github.com/BogibekDev/JetFlix-TV-App" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
 </div>
 
