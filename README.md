@@ -28,6 +28,40 @@
 <img src=""/></a> -->
 
 
+## Tarix
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/tarix_old.webp)
+
+
+
+
+- The Tarix app allows you to study history in an easy and fun way through tests, exercises, and interactive tasks. No more flipping through books or searching for additional textbooks - all the essential exercises are in one app!
+
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=dev.bogibek.tarix" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+<!-- <a href="https://apps.apple.com/uz/app/joytop/id6754328626" target="_blank"><img src="https://img.shields.io/badge/App Sotre-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a> -->
+</div>
+
+### Used Techs  
+
+• [Dart](https://dart.dev/)
+• [Flutter](https://flutter.dev/)
+• [Bloc](https://pub.dev/packages/flutter_bloc)
+• [Dio](https://pub.dev/packages/dio)
+• [dio_cache_interceptor](https://pub.dev/packages/dio_cache_interceptor)
+• [go_router](https://pub.dev/packages/go_router)
+• [smart_auth](https://pub.dev/packages/smart_auth)
+• [firebase_core](https://pub.dev/packages/firebase_core)
+• [firebase_remote_config](https://pub.dev/packages/firebase_remote_config)
+• [firebase_messaging](https://pub.dev/packages/firebase_messaging)
+• [perfect_notifications](https://github.com/BogibekDev/perfect_notifications)  
+
+
+
+___
+
+
 ## JoyTop for Client
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/joytop.webp)
