@@ -59,6 +59,32 @@
 
 
 
+## Maydonchi
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/maydonchi.webp)
+
+
+
+
+- Maydonchi is a modern mobile application that allows owners of football fields in Uzbekistan to manage their fields online, view orders and monitor revenue. No more need to write down in a notebook or phone - all processes are carried out quickly, easily and reliably through one application.
+
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=top.maydon.owner" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+<!-- <a href="https://apps.apple.com/uz/app/joytop/id6754328626" target="_blank"><img src="https://img.shields.io/badge/App Sotre-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a> -->
+</div>
+
+### Used Techs
+
+• [Dart](https://dart.dev/)
+• [Flutter](https://flutter.dev/)
+• [MVVM](https://docs.flutter.dev/get-started/fundamentals/state-management#using-mvvm-for-your-applications-architecture) 
+• [Riverpod](https://riverpod.dev/)
+• [Retrofit](https://pub.dev/packages/retrofit)
+• [rxdart](https://pub.dev/packages/rxdart)
+• [firebase_messaging](https://firebase.google.com/docs/cloud-messaging)
+• [Material Page Route](https://docs.flutter.dev/cookbook/navigation/navigation-basics) 
+
 ___
 
 
