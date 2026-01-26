@@ -39,19 +39,26 @@
 
 
 <div align="center">
- <a href="https://play.google.com/store/apps/details?id=uz.joytop.joytop_mobile" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
-<a href="https://apps.apple.com/uz/app/joytop/id6754328626" target="_blank"><img src="https://img.shields.io/badge/App Sotre-100000?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a>
+ <a href="https://play.google.com/store/apps/details?id=uz.joytop.joytop_mobile" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+<a href="https://apps.apple.com/uz/app/joytop/id6754328626" target="_blank"><img src="https://img.shields.io/badge/App Sotre-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a>
 </div>
 
-### Used Techs
+### Used Techs  
 
 • [Dart](https://dart.dev/)
 • [Flutter](https://flutter.dev/)
-• [Bloc](bloclibrary.dev) 
+• [BLoC](https://bloclibrary.dev/#/)
+• [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 • [Dio](https://pub.dev/packages/dio)
 • [GetIt](https://pub.dev/packages/get_it)
 • [GoRouter](https://pub.dev/packages/go_router)
-• [Google Map](https://pub.dev/packages/google_maps_flutter)
+• [WebSocket](https://pub.dev/packages/web_socket_channel)
+• [Google Maps](https://pub.dev/packages/google_maps_flutter)
+• [Geolocator](https://pub.dev/packages/geolocator)
+• [In-App Purchase](https://pub.dev/packages/in_app_purchase)
+• [Easy Localization](https://pub.dev/packages/easy_localization)
+• [Lottie](https://pub.dev/packages/lottie)
+
 
 
 ___
