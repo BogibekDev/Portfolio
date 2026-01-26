@@ -28,6 +28,34 @@
 <img src=""/></a> -->
 
 
+## JoyTop for Client
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/joytop.webp)
+
+
+
+
+- JoyTop is a convenient platform that helps users quickly find or post what they need in one place.
+
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=uz.joytop.joytop_mobile" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+<a href="https://apps.apple.com/uz/app/joytop/id6754328626" target="_blank"><img src="https://img.shields.io/badge/App Sotre-100000?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a>
+</div>
+
+### Used Techs
+
+• [Dart](https://dart.dev/)
+• [Flutter](https://flutter.dev/)
+• [Bloc](bloclibrary.dev) 
+• [Dio](https://pub.dev/packages/dio)
+• [GetIt](https://pub.dev/packages/get_it)
+• [GoRouter](https://pub.dev/packages/go_router)
+• [Google Map](https://pub.dev/packages/google_maps_flutter)
+
+
+___
+
 
 ## QAS for Client
 
