@@ -27,6 +27,21 @@
 <a href="" target="_blank">
 <img src=""/></a> -->
 
+## Perfect Notification
+
+https://github.com/user-attachments/assets/619e73f9-00cf-4576-b5bd-fa83e135b0a8
+
+
+- Perfect Notifications is a powerful and flexible plugin for Flutter that enables both push and local notifications.
+It works with Firebase Cloud Messaging (FCM) and provides full support for both Android and iOS platforms.
+
+
+<div align="center">
+ <a href="https://github.com/BogibekDev/qas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
+</div>
+
+
+
 
 ## Tarix
 
