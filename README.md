@@ -27,6 +27,49 @@
 <a href="" target="_blank">
 <img src=""/></a> -->
 
+
+
+## MilliyAvia
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/milliyavia.webp)
+
+
+
+
+- MilliyAvia is your smart travel companion for booking and purchasing flight tickets across the globe. Whether you’re planning a holiday, a business trip, or a last-minute journey — MilliyAvia helps you find the best deals in seconds.
+
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=org.digital_ideas.milliyavia_mobile" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+<a href="https://apps.apple.com/uz/app/milliyavia/id6749145931" target="_blank"><img src="https://img.shields.io/badge/App Sotre-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a>
+</div>
+
+### Used Techs  
+
+### Used Techs  
+
+• [Dart](https://dart.dev/)
+• [Flutter](https://flutter.dev/)
+• [bloc](https://pub.dev/packages/bloc)
+• [equatable](https://pub.dev/packages/equatable)
+• [intl](https://pub.dev/packages/intl)
+• [get_it](https://pub.dev/packages/get_it)
+• [Dio](https://pub.dev/packages/dio)
+• [sentry](https://pub.dev/packages/sentry_flutter)
+• [drift](https://pub.dev/packages/drift)
+• [firebase](https://pub.dev/packages/firebase_core)
+• [google_sign_in](https://pub.dev/packages/google_sign_in)
+• [sign_in_with_apple](https://pub.dev/packages/sign_in_with_apple)
+• [geolocator](https://pub.dev/packages/geolocator)
+• [geocoding](https://pub.dev/packages/geocoding)
+• [animated_text_kit](https://pub.dev/packages/animated_text_kit)
+• [shimmer](https://pub.dev/packages/shimmer)
+• [rive](https://pub.dev/packages/rive)
+• [json_dynamic_widget](https://pub.dev/packages/json_dynamic_widget) 
+• [crypto](https://pub.dev/packages/crypto) 
+• [perfect_notifications](https://github.com/BogibekDev/perfect_notifications)  
+
+
 ## Perfect Notification
 
 https://github.com/user-attachments/assets/619e73f9-00cf-4576-b5bd-fa83e135b0a8
