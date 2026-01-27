@@ -46,8 +46,6 @@
 
 ### Used Techs  
 
-### Used Techs  
-
 • [Dart](https://dart.dev/)
 • [Flutter](https://flutter.dev/)
 • [bloc](https://pub.dev/packages/bloc)
@@ -84,8 +82,6 @@
  <a href="https://play.google.com/store/apps/details?id=org.digital_ideas.milliyavia_mobile" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
 <a href="https://apps.apple.com/uz/app/milliyavia/id6749145931" target="_blank"><img src="https://img.shields.io/badge/App Sotre-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a>
 </div>
-
-### Used Techs  
 
 ### Used Techs  
 
