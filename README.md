@@ -29,6 +29,47 @@
 
 
 
+## MilliyPay
+
+![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/milliypay.webp)
+
+
+
+
+- MPay is the most convenient and reliable way to transfer money from Russia to Uzbekistan. Now you can take advantage of the best exchange rates, low fees, and modern technology when transferring money.
+
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=uz.milliypay.android" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt=playstore style="margin-bottom: 5px;"/></a>
+<a href="https://apps.apple.com/ru/app/mpay-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B/id6499466622" target="_blank"><img src="https://img.shields.io/badge/App Sotre-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt=appstore style="margin-bottom: 5px;"/></a>
+</div>
+
+### Used Techs  
+
+### Used Techs  
+
+• [Dart](https://dart.dev/)
+• [Flutter](https://flutter.dev/)
+• [bloc](https://pub.dev/packages/bloc)
+• [equatable](https://pub.dev/packages/equatable)
+• [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage)
+• [lottie](https://pub.dev/packages/lottie)
+• [carousel_slider](https://pub.dev/packages/carousel_slider)
+• [shimmer](https://pub.dev/packages/shimmer)
+• [vpn_detector](https://pub.dev/packages/vpn_detector)
+• [qr_flutter](https://pub.dev/packages/qr_flutter)
+• [geolocator](https://pub.dev/packages/geolocator)
+• [firebase](https://pub.dev/packages/firebase_core)
+• [firebase_analytics](https://pub.dev/packages/firebase_analytics)
+• [crypto](https://pub.dev/packages/crypto)
+• [drift](https://pub.dev/packages/drift)
+• [uuid](https://pub.dev/packages/uuid)
+• [sqlite3_flutter_libs](https://pub.dev/packages/sqlite3_flutter_libs)
+• [showcaseview](https://pub.dev/packages/showcaseview)
+• [perfect_notifications](https://github.com/BogibekDev/perfect_notifications)  
+
+
+
 ## MilliyAvia
 
 ![image](https://github.com/BogibekDev/Portfolio/raw/main/screenshots/milliyavia.webp)
